@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.klas{
+    background-color: pink;
+    color: black;
+    font-weight: bold;
+}
+#i1{
+    font-size: 32px;
+    color: blue;
+    font-weight: bold;
+}
+#i2{
+    font-size: 28px;
+    background-color: green;
+    font-weight: 1000;
+}
+.font{
+    font-size: 24px;
+}
